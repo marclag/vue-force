@@ -1,7 +1,7 @@
 # Input
 
 > vf-input
-
+añadido en brachn 2
 
 - [Introduction](#introduction)
 - [Props](#prop)
